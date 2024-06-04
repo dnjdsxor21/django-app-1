@@ -1,0 +1,5 @@
+.python-version
+.env
+db.sqlite3
+mytest.py
+__pycache__/
